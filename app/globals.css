@@ -122,6 +122,10 @@ body {
     margin-right: 40px;
     font-size: 1.2rem;
     font-weight: 600;
+    color: #fff;
+}
+
+.header a.active {
     color: #0071ff;
 }
 
